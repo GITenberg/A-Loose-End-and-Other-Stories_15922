@@ -1,0 +1,27 @@
+_repo: A-Loose-End-and-Other-Stories_15922
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, S. Elizabeth
+    gutenberg_agent_id: '6376'
+    url: http://www.gutenberg.org/2009/agents/6376
+description: ''
+gutenberg_issued: '2005-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+tableOfContents: A Loose End -- In a Breton Village -- Twice a Child -- The Road by
+  the Sea -- The Halting Step -- Tabitha's Aunt.
+title: A Loose End and Other Stories
+url: http://www.gutenberg.org/ebooks/15922
